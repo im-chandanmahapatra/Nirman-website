@@ -1,0 +1,6 @@
+{
+  "name": "NIRMAN — Contemporary Coastal Residences in Alibaug",
+  "description": "A boutique gated coastal community of 25 residences in Alibaug along India's Konkan coast, crafted around privacy, architecture, and coastal living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
